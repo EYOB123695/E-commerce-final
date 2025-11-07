@@ -44,5 +44,3 @@ Below are some screenshots of the website.
 4. Open `http://localhost:3000` in your browser to view the website.
 
 
-Thank you! 🤍
-– Nigar Safarova
